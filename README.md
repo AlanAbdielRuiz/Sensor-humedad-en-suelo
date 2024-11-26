@@ -1,2 +1,6 @@
 # Sensor-humedad-en-suelo
-Unidad 4,5,6 programación
+Equipo formado por: 
+Fernando Gutierrez Sandoval
+Daniel Alejandro García Peña 
+Alan Abdiel Ruiz Maranto 
+Rosbel Adrián Salazar Ríos
